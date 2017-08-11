@@ -7,7 +7,7 @@ Common utilities that users of Windows can download and use for FREE all sit beh
 Do I really need to pay money for s program that will click on one spot for my screen?
 Is it fun to only trial version of basic functionality?
 
-*Absolutely not*
+**Absolutely not**
 
 the Mac screen macro does something very simple
 - get the current position of the mouse
