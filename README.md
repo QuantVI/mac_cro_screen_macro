@@ -17,4 +17,4 @@ I later changed it to
 - PAUSE when the mouse moves outside of a certain range/radius of the inital mouse position
 - RESUME clicking when the mouse return within that radius
 
-This free, basic clicker that works on MacOSX, is perfect for games such as those on Kongregate.com[http://kongregate.com]
+This free, basic clicker that works on MacOSX, is perfect for games such as those on [Kongregate.com](http://kongregate.com)
