@@ -8,7 +8,7 @@ Is it fun to only use trial versions, with basic functionality?
 
 **Absolutely not**
 
-the Mac screen macro does something very simple
+The Mac screen macro does something very simple
 - get the current position of the mouse
 - begin left-clicking
 - stop left-clicking if the mouse moves from its initial position
@@ -17,4 +17,4 @@ I later changed it to
 - PAUSE when the mouse moves outside of a certain range/radius of the inital mouse position
 - RESUME clicking when the mouse return within that radius
 
-This free, basic clicker that works on MacOSX, is perfect for games such as those on Kongregate.com
+This free, basic clicker that works on MacOSX, is perfect for games such as those on Kongregate.com[http://kongregate.com]
