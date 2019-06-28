@@ -21,18 +21,18 @@ This free, basic clicker that works on MacOSX, is perfect for games such as thos
 
 #### Simple usage
 1. Download the .py
-- Open IDLE, then open the script in IDLE (one or two external package required)
+2. Open IDLE, then open the script in IDLE (one or two external package required)
   - You can edit the size of the error box around the mouse position. Then save.
   - You can edit the times between about 6--8 clicks. It's better for each click to be unevenly spaced.
   - You can edit the loops/time. It's set to several hours worth
-- In Mac, you can have a different screen active, than where your mouse is
+3. In Mac, you can have a different screen active, than where your mouse is
   - Make sure IDLE shell (i.e. interactive) window is open
   - Have IDLE script (i.e. the .py file) window active
   - Place mouse in the area that needs to be clicked
-- Hit F5 on your **KEYBOARD** (with the scrpit windo active, it runs the script)
+4. Hit F5 on your **KEYBOARD** (with the scrpit windo active, it runs the script)
   - shell winodw become active
   - after a slight pause, the mouse will begin clicking
-- Test that clicking stops, when you move a certain range away form inital mouse position  
-- Use one of Control+C, Control+D, Control+B to break the loop/stop execution
+5. Test that clicking stops, when you move a certain range away form inital mouse position  
+6. Use one of Control+C, Control+D, Control+B to break the loop/stop execution
   - Note: ideally, the shcell window is not within the "error range" of the inital mouse position,
   - That way, clicking will stop, when you need to go to the shell to stop execution
